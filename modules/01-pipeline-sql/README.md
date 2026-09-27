@@ -35,4 +35,3 @@ W swoim repo portfolio, na branchu `modul-01`:
 - Co się stanie z fakturą, której klienta nie ma w słowniku? Dlaczego tak?
 - Finanse mówią, że sprzedaż za maj jest o 2% za wysoka. Gdzie szukasz najpierw?
 - Czemu raw trzymamy jako tekst?
--added line
