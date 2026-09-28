@@ -1,0 +1,53 @@
+customer_id,customer_name,country,segment
+C001,Klient 1 Sp. z o.o.,PL,Retail
+C002,Klient 2 Sp. z o.o.,CZ,Wholesale
+C003,Klient 3 Sp. z o.o.,DE,Wholesale
+C004,Klient 4 Sp. z o.o.,PL,Retail
+C005,Klient 5 Sp. z o.o.,Poland,retail
+C006,Klient 6 Sp. z o.o.,PL,Retail
+C007,Klient 7 Sp. z o.o.,PL,Wholesale
+C008,Klient 8 Sp. z o.o.,DE,Retail
+C009,Klient 9 Sp. z o.o.,Poland,Wholesale
+C010,Klient 10 Sp. z o.o.,Poland,retail
+C011,Klient 11 Sp. z o.o.,DE,retail
+C012,Klient 12 Sp. z o.o.,Poland,
+C013,Klient 13 Sp. z o.o.,PL,Wholesale
+C014,Klient 14 Sp. z o.o.,pl ,
+C015,Klient 15 Sp. z o.o.,CZ,Wholesale
+C016,Klient 16 Sp. z o.o.,DE,
+C017,Klient 17 Sp. z o.o.,PL,Retail
+C018,Klient 18 Sp. z o.o.,pl ,Retail
+C019,Klient 19 Sp. z o.o.,CZ,
+C020,Klient 20 Sp. z o.o.,Poland,
+C021,Klient 21 Sp. z o.o.,PL,retail
+C022,Klient 22 Sp. z o.o.,Poland,Retail
+C023,Klient 23 Sp. z o.o.,pl ,Retail
+C024,Klient 24 Sp. z o.o.,Poland,
+C025,Klient 25 Sp. z o.o.,Poland,
+C026,Klient 26 Sp. z o.o.,Poland,Wholesale
+C027,Klient 27 Sp. z o.o.,PL,Retail
+C028,Klient 28 Sp. z o.o.,DE,
+C029,Klient 29 Sp. z o.o.,PL,Wholesale
+C030,Klient 30 Sp. z o.o.,PL,retail
+C031,Klient 31 Sp. z o.o.,CZ,retail
+C032,Klient 32 Sp. z o.o.,CZ,Wholesale
+C033,Klient 33 Sp. z o.o.,CZ,
+C034,Klient 34 Sp. z o.o.,DE,
+C035,Klient 35 Sp. z o.o.,PL,Wholesale
+C036,Klient 36 Sp. z o.o.,Poland,Wholesale
+C037,Klient 37 Sp. z o.o.,DE,retail
+C038,Klient 38 Sp. z o.o.,pl ,
+C039,Klient 39 Sp. z o.o.,Poland,Wholesale
+C040,Klient 40 Sp. z o.o.,CZ,Retail
+C041,Klient 41 Sp. z o.o.,DE,Retail
+C042,Klient 42 Sp. z o.o.,CZ,retail
+C043,Klient 43 Sp. z o.o.,CZ,Retail
+C044,Klient 44 Sp. z o.o.,DE,
+C045,Klient 45 Sp. z o.o.,DE,retail
+C046,Klient 46 Sp. z o.o.,pl ,retail
+C047,Klient 47 Sp. z o.o.,DE,
+C048,Klient 48 Sp. z o.o.,DE,Wholesale
+C049,Klient 49 Sp. z o.o.,Poland,
+C050,Klient 50 Sp. z o.o.,Poland,retail
+C005,Klient 5 Sp. z o.o.,Poland,retail
+C018,Klient 18 Sp. z o.o.,pl ,Retail
